@@ -1,3 +1,5 @@
+package strategy;
+
 public class DebitCardStrategy implements PaymentStrategy
 {
     private String name;
